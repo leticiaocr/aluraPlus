@@ -1,5 +1,5 @@
 # ALURA PLUS
-Projeto desenvolvido durante o curso praticando HTML/CSS da Allura com a finalidade de treinar habilidades com HTML e CSS
+Projeto desenvolvido durante o curso praticando HTML/CSS da formação HTML e CSS para projetos web da Alura com a finalidade de treinar habilidades com HTML e CSS
 
 ## Tecnologias
 
